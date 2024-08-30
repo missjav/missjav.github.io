@@ -31,14 +31,6 @@ var jwDefaults = {
     "windowColor": "#000000",
     "windowOpacity": 0
   },
-  "cast": {},
-  "controls": true,
-  "displayHeading": false,
-  "displaydescription": true,
-  "displaytitle": true,
-  "floating": {
-    "mode": "never"
-  },
   "ga": {},
   "generateSEOMetadata": true,
   "height": 360,
@@ -79,7 +71,7 @@ var jwDefaults = {
       "text": "#ffc300"
     },
     "menus": {
-      "background": "#333333",
+      "background": "#000000",
       "text": "rgba(255,255,255,0.8)",
       "textActive": "#ffc300"
     },
