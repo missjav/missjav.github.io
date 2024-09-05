@@ -1,5 +1,3 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-https://live.canhabsyi.cloud/memfs/08ee8f72-0d4d-423b-8b87-0bfea1799507.m3u8
-
+#EXT-X-STREAM-INF:BANDWIDTH=375000,RESOLUTION=640x360
+https://dns.canal86.my.id/http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh_ejzibRHwEXFzMMXWbdeGc/ts
