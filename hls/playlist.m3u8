@@ -1,3 +1,4 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=375000,RESOLUTION=640x360
-https://dns.canal86.my.id/http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh_ejzibRHwEXFzMMXWbdeGc/ts
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
+https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&userid=lite&chname=tvOne
