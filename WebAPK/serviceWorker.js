@@ -10,7 +10,7 @@ var urlsToCache = [
 	'https://missjav.github.io/',
 	'https://missjav.github.io/index.html',
 	'https://cdn.jsdelivr.net/gh/canhabsyi/canal86@main/WebAPK/logo.png',
-	'https://cdn.jsdelivr.net/gh/canhabsyi/canal86@main/WebAPK/manifest.json',
+	'https://cdn.jsdelivr.net/gh/missjav/missjav.github.io@main/WebAPK/manifest.json',
 ];
 var urlsNotToCache = [
 	// Urls that don't need to be cached can be added here explicitly
