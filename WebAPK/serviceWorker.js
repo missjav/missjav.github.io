@@ -9,7 +9,7 @@ var CACHE_NAME = 'webapk-cache';
 var urlsToCache = [
 	'https://missjav.github.io/',
 	'https://missjav.github.io/index.html',
-	'https://cdn.jsdelivr.net/gh/canhabsyi/canal86@main/WebAPK/logo.png',
+	'https://cdn.jsdelivr.net/gh/ambontv/ambontv.github.io@main/img/bulatlogo.png',
 	'https://cdn.jsdelivr.net/gh/missjav/missjav.github.io@main/WebAPK/manifest.json',
 ];
 var urlsNotToCache = [
