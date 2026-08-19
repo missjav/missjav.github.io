@@ -3,7 +3,7 @@
 	"name": "AmbonTV",
 	"short_name": "AmbonTV",
 	"description": "Official",
-	"orientation": "potrait",
+	"orientation": "any", 
 	"start_url": "https://missjav.github.io/",
 	"scope": "/",
 	"display": "standalone",
